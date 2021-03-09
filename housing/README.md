@@ -3,6 +3,11 @@
 Planned Display: NHD-7.0-HDMI-HR-RSXP-CTU
 Press nuts M5x8mm planned to fix the display in the enclosure
 
-https://www.ebay.de/itm/Einpressmutter-M2-M3-M4-M5-Einschlagmutter-Randelmutter-Gewindeeinsatz-M-2-3-4-5/173779404364?hash=item28760f464c:g:uk8AAOSw2XJgQnAp&var=472450338473
-M5 x 8mm  
+## Contents
+- front : Part of the enclosure which holds the display, buttons and encoders
+- backside : Cover the electronics
 
+
+## Mechanical sketch
+Idea how if shall look like later:
+![image](wireFrame.png)
