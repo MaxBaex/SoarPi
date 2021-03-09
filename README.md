@@ -1,7 +1,7 @@
 # SoarPi
 
 ## What is it?
-A sunlight readable display, a raspberry pi, an adapter pcb, some HMI user machine interface possibilities all put into one enclosure
+A sunlight readable display, a raspberry pi, an adapter pcb, some HMI user machine interface possibilities all put into one enclosure.  For the purpose of naviation aid in a glider using XCSOAR.
 
 ## Project structure
 - concept:  contain the system design decisions
