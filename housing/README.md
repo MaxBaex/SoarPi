@@ -9,5 +9,6 @@ Press nuts M5x8mm planned to fix the display in the enclosure
 
 
 ## Mechanical sketch
-Idea how if shall look like later:
+That is, how if shall look like:
+
 ![image](wireFrame.png)
