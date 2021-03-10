@@ -8,6 +8,7 @@
 - Ambient light lensor: BH1750
 - Sound amplifier: PAM8403  (using use the 3.5mm connector) 
 - Adapter PCB: To be designed.
+- RS232 via FT232RL + MAX232 connected via micro usb to Raspberry.
 - 
 
 
