@@ -8,6 +8,11 @@ A sunlight readable display, a raspberry pi, an adapter pcb, some HMI user machi
 - electronics:  pcb design and parts
 - housing: enclosure design for 3D printing
 
+## Opertion concept
+![image](concept/operation/pictures/soarpi_8_4_p_text.png)
+
+![image](concept/operation/pictures/soarpi_8_4_l_text.png)
+
 
 ## First sketches enclosure construction
 
