@@ -11,7 +11,7 @@
 - 
 
 
-##bRaspberry Pi GPIO Pin Mapping:
+## Raspberry Pi GPIO Pin Mapping:
 - GPIO4 : OneWire
 
 
