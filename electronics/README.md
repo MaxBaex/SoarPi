@@ -9,3 +9,9 @@
 - Sound amplifier: PAM8403  (using use the 3.5mm connector) 
 - Adapter PCB: To be designed.
 - 
+
+
+##bRaspberry Pi GPIO Pin Mapping:
+- GPIO4 : OneWire
+
+
