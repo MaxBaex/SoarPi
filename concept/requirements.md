@@ -11,6 +11,7 @@ This section describes which connection options SoarPi provides electrically or 
 ## Power Supply
 
 The device is supplied with power via this connector. The device is usually supplied from the board battery and must cope with the usual fluctuations in the supply.
+A proper system shutdown is unrealistic. A read-only filesystem configuration might be required. 
 
 Connector: Power
 * Connector: __Todo: to be defined__
@@ -40,6 +41,7 @@ Connector: Radio
 __ToDo: describe connector type, standards and applications__
 
 ## Speaker
+A vario which uses a magnetic compass sensor might be included. A build in loudspeaker would be destructive.
 __ToDo: is speaker included or just connected?__
 
 ## USB Interfaces
@@ -64,7 +66,7 @@ Conncector: USB 4
 
 The firmware including XCSoar is stored on a µ SD card. The memory card can be replaced without opening the device. 
 
-__ToDo: Alternative would be to work with inernal SD card and trade updates via USB-STick: to be defined__
+__ToDo: Alternative would be to work with internal SD card and trade updates via USB-STick: to be defined__
 
 Connector: Firmware
 * Connector Type: µSD Card Holder
