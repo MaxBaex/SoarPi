@@ -1,6 +1,6 @@
 # Concept Description
 - 12V power supply for raspberry pi, display and peripherals
-- CAN interface via MCP2515, (via SPI)  https://crycode.de/can-bus-am-raspberry-pi 
+- CAN interface
 - Sound amplifier for a small 1-3W mono loudspeaker
 - Brightness sensor for display illumination dimming. 
 - some mechanical encoders at the corners which can also be used for mounting the display onto the panel
