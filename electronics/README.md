@@ -9,7 +9,7 @@
 - Sound amplifier: PAM8403  (using use the 3.5mm connector) 
 - Adapter PCB: To be designed.
 - RS232 via FT232RL + MAX232 connected via micro usb to Raspberry.
-- 
+- CAN via MCP2515 + SPI)  https://crycode.de/can-bus-am-raspberry-pi 
 
 
 ## Raspberry Pi GPIO Pin Mapping:
